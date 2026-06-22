@@ -13,12 +13,6 @@ I am a product designer who engineers.
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
 <img align="left" alt=“Dart” width="26px" src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/n8n.svg" />
-
-
-
-
-<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" />
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
   
 <br>
